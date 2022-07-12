@@ -8,7 +8,7 @@ export default function Header() {
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--project">CL</h4>
+            <h2 className="header--project">CL</h2>
         </header>
     )
 }
